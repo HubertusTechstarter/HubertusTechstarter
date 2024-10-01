@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working at Techstarter<br>🌱 I’m currently learning ISTQB<br>👯 I’m looking to collaborate on automated testing<br>🤔 I’m looking for help with Terraform deployment<br>💬 Ask me about my dog Juno 🐕<br>📫 How to reach me: Text me on Slack<br>⚡ Fun fact: I like cilantro 🌿 but I dislike ice cream 🍦
+🔭 I’m currently working at Techstarter<br>
+🌱 I’m currently learning ISTQB<br>
+👯 I’m looking to collaborate on automated testing<br>
+🤔 I’m looking for help with Terraform deployment<br>
+💬 Ask me about my dog Juno 🐕<br>
+📫 How to reach me: Text me on Slack<br>
+⚡ Fun fact: I like cilantro 
+🌿 but I dislike ice cream 🍦
 
 
 # 💻 Tech Stack:
